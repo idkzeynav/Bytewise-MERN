@@ -18,3 +18,6 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 | Task-05 | Week 2 (Day 1) | Mastering CSS Grid and Flexbox | Completed ✅  |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week2_Task1(Grid%2BFlexbox))|
 | Task-06 | Week 2 (Day 2) | Creating a Responsive Website | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week2_Task2%20(Responsiveness))|
 | Task-07 | Week 2 (Day 3) | Landing Page Website | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week2_Task3%20(landing%20page-frontend%20mentor))|
+| Task-08 | Week 3 (Day 1) | SCSS | Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-3/Task-1-SCSS)|
+| Task-09 | Week 3 (Day 2+3) | Tailwind | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-3/Task-2-Tailwind)|
+| Task-10 | Week 3 (Day 4+5) | Responsive Tailwind | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-3/Task-3-Responsive-Tailwind/my-react-app)|
