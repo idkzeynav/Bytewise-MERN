@@ -26,3 +26,6 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 |         |Task-13 (Day 3) | Asynchrounous Javascript|Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-4/Task-3-Asynchronous-JS)|
 |         |Task-14 (Day 4) | JavaScript Function|Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-4/Task-4-JS-Functions)|
 |         |Task-15 (Day 5) | To Do list |Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-4/Task-5-To-Do-List)|
+| Week 5  |Task-16 (Day 1+2+3)|Task Manager App with React|Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-5/Task-1/react-task-manager)|
+|         |Task-17 (Day 4)|Web Server with Node|Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-5/Task-2/web-server-node)|
+|         |Task-18 (Day 5)|Frontend Master Shopping Cart Challenge|Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-5/Task-3/product-list-with-cart-main/product-list-with-cart-main)|
