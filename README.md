@@ -32,6 +32,6 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 | Week 6  |Task-19 (Day 1)| Learn Express| Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-6/Task-1-Express)|
 |         |Task-20 (Day 4)| MongoDB Connection and Interacting with REST API| Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-6/Task-2-MongoDB)|
 |         |Task-21 (Day 5)| Build a Goal App using the MERN Stack|Completed ✅||[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-6/task-3-Frontend-Goal-App)|
-| Week 7  |Task-22 (Day 5)| JWT Authentication| Completed ✅||[See Task]()|
-|         |Task-23 (Day 5)| Redux Toolkit| In-Progress: ✍️||[See Task]()|
-|         |Task-24 (Day 5)| React state management| To-do: 📝||[See Task]()|
+| Week 7  |Task-22 (Day 5)| JWT Authentication| Completed ✅||[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-1-JWT-Auth)|
+|         |Task-23 (Day 5)| Redux Toolkit| Completed ✅||[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-2-Redux-Toolkit)|
+|         |Task-24 (Day 5)| React state management| Completed ✅ ||[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-3-React-State-Management)|
