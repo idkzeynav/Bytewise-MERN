@@ -35,3 +35,4 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 | Week 7  |Task-22 (Day 1) | JWT Authentication| Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-1-JWT-Auth)|
 |         |Task-23 (Day 2+3) | Redux Toolkit| Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-2-Redux-Toolkit)|
 |         |Task-24 (Day 5) | React state management| Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-3-React-State-Management)|
+| Week 8  |Task-25 (Day 1-5) | Personal Finance App| In-Progress: ✍️ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-8)|
