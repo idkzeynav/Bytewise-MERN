@@ -1,0 +1,51 @@
+/* src/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  width: calc(100% - 22px);
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: auto;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 5px 0;
+}
+
+button {
+  margin-left: 10px;
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+div {
+  margin: 20px;
+}
