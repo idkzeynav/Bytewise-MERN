@@ -36,3 +36,6 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 |         |Task-23 (Day 2+3) | Redux Toolkit| Completed ✅|[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-2-Redux-Toolkit)|
 |         |Task-24 (Day 5) | React state management| Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-7/Task-3-React-State-Management)|
 | Week 8  |Task-25 (Day 1-5) | Personal Finance App with chatgpt integration| In-Progress: ✍️ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-8)|
+| Week 9  |Task-26 (Day 1+2) | Monthly Motivation with email automation through cron jobs| Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-9/monthly-motivation)|
+|         |Task-27 (Day 3+4) | Deployment for Backend and Frontend| Completed ✅ |[See Task](https://fullstack-zeta-two.vercel.app/)|
+|         |Task-28 (Day 5) | Deploy Previious Task | Completed ✅ |[See Task](https://full-stack-cart-app.vercel.app/)|
