@@ -11,7 +11,7 @@ exports.getAdvice = async (req, res) => {
       temperature: 0.5
     }, {
       headers: {
-        'Authorization': `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`
+        'Authorization': `Bearer ${process.env.OPEN_API_KEY}`,
       }
     });
 
