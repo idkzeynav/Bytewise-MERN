@@ -11,6 +11,7 @@ const auth = require('../middleware/auth');
 router.post('/', auth, async (req, res) => {
   try {
     const { question } = req.body;
+    const apiKey = config.get('openai_api_key');
 
     const response = await axios.post('https://api.openai.com/v1/engines/davinci/completions', {
       prompt: question,
