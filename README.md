@@ -38,4 +38,6 @@ This repository tracks my progress through the Bytewise MERN Fellowship. It cont
 | Week 8  |Task-25 (Day 1-5) | Personal Finance App with chatgpt integration| In-Progress: ✍️ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-08)|
 | Week 9  |Task-26 (Day 1+2) | Monthly Motivation with email automation through cron jobs| Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-09/Task-1-Monthly-Motivation-Cron-Job)|
 |         |Task-27 (Day 3+4) | Deployment for Backend and Frontend| Completed ✅ |[See Task](https://fullstack-zeta-two.vercel.app/)|
-|         |Task-28 (Day 5) | Deploy Previious Task | Completed ✅ |[See Task](https://full-stack-cart-app.vercel.app/)|
+|         |Task-28 (Day 5) | Deploy Previous Task | Completed ✅ |[See Task](https://full-stack-cart-app.vercel.app/)|
+| Week 10 |Task-29 (Day 1+2) | GraphQL Crash Course | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-10/Task-1-GraphQL)|
+|         |Task-30 (Day 3-5) | Payment Integration | Completed ✅ |[See Task](https://github.com/idkzeynav/Bytewise-MERN/tree/master/Week-10/Task-2-PaymentIntegration)|
