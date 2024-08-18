@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://zeynabxco:zainab@cluster0.mwzgi6t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-    "jwtSecret": "myverysecretkeythatshouldbechanged",
-    "openAIApiKey": "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"
-  }
-  
