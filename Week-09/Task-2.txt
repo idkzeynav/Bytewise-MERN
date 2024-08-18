@@ -1,0 +1,2 @@
+Deployment for Backend and Frontend:
+live link : https://fullstack-zeta-two.vercel.app/
